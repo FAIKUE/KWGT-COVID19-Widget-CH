@@ -4,7 +4,7 @@ Widget Preset for KWGT (https://play.google.com/store/apps/details?id=org.kustom
 ## What is displayed?
 - The daily new cases (in grey instead of white, if todays cases have not been published yet).
 - The total vaccination doses administered.
-<img src="https://github.com/FAIKUE/KWGT-COVID19-Widget-CH/raw/master/Screenshot.jpg" width="185" height="122" />
+<img src="https://github.com/FAIKUE/KWGT-COVID19-Widget-CH/raw/master/Screenshot.jpg" width="196" height="156" />
 
 ## Instructions
 - Clone the repository or download the "\*.kwgt" file.
